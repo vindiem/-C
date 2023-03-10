@@ -1,0 +1,9 @@
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/mainconsole.dir
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/mainconsole_autogen_timestamp_deps.dir
+D:/Work()/Cpp/Projects/_git/cpp project/build-mainconsole-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/mainconsole_autogen.dir
