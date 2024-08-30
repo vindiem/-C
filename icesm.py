@@ -55,8 +55,8 @@ class Math:
                         afterDot += astr[k]
                 break
 
-        if (n1 == 10):
-            for i in range()
+        #if (n1 == 10):
+            #for i in range()
 
 
 
